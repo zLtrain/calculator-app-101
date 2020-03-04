@@ -33,3 +33,7 @@ Inside this repo you'll find HTML, CSS, and JS files that come together to build
   > *NOTE: A PR, is a request to merge your code changes into the original code base. This is what you'd normally do in your day job so that other can see the work you did for the day.*
 
 1. Once you've made the PR you'll copy/paste the URL of the PR for your instructor to grade.
+
+*******
+
+<iframe src="https://player.vimeo.com/video/395247060" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
